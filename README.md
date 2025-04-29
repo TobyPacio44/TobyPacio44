@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @TobyPacio44
 - 👀 I’m interested in game development!
-- 🌱 I’m currently learning c# and Unity
-- 💞️ I’m looking to collaborate on games
-
-https://kinsta.com/blog/linux-commands/
+- 🌱 I’m currently making "Jumbling Raccoons"
+- https://raccoongamedev.itch.io/jumbling-raccoons-alpha-012
 
 <!---
 TobyPacio44/TobyPacio44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
